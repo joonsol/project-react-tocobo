@@ -1,0 +1,21 @@
+#section-hello {
+    .inner {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+  
+    .img_wrap {
+      width: 62.9rem;
+    }
+  
+    .tit_wrap {
+      width: calc(50% - 1rem);
+      text-align: center;
+    }
+  
+    .con_tit {
+      color: #DC272D;
+    }
+  }
+  
